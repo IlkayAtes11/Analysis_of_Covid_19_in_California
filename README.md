@@ -54,45 +54,45 @@ Los Angeles County : 1.841%
 
 Top 5 counties that are mostly affected in our timeframe are Los Angeles, San Bernardino, Riverside, San Diego and Orange. All of these counties are in Southern California.
 
-![Most Affected](./images/top_counties_cases.png)
+![Most Affected](./Images/top_counties_cases.png)
 
-![Most Affected](./images/top_counties_deaths.png)
+![Most Affected](./Images/top_counties_deaths.png)
 
 ## Least Affected Counties
 
 Bottom 5 counties that are least affected in our timeframe are Sierra, Alpine, Trinity, Mariposa and Modoc.
 
-![Least Affected](./images/bottom_counties_cases.png)
+![Least Affected](./Images/bottom_counties_cases.png)
 
-![Least Affected](./images/bottom_counties_deaths.png)
+![Least Affected](./Images/bottom_counties_deaths.png)
 
 ## Correlation Analyses (County Covid Cases/Deaths versus County Population/Area(Sqr mil))
 
 The correlation between covid cases and population is 0.98 while correlation between covid cases and area (sqr mil) is 0.25.
 
-![Cases Population Plot](./images/plot_cases_population.png)
+![Cases Population Plot](./Images/plot_cases_population.png)
 
-![Cases Area Plot](./images/plot_cases_area.png)
+![Cases Area Plot](./Images/plot_cases_area.png)
 
 The correlation between covid deaths and population is 0.97 while correlation between covid deaths and area (sqr mil) is 0.22.
 
-![Deaths Population Plot](./images/plot_deaths_population.png)
+![Deaths Population Plot](./Images/plot_deaths_population.png)
 
-![Deaths Area Plot](./images/plot_deaths_area.png)
+![Deaths Area Plot](./Images/plot_deaths_area.png)
 
 ## Covid Timeline Analysis
 Despite a lockdown renewed on December 3rd in California, the cases grew dramatically during the holiday season. This makes sense assuming people are shopping, traveling and coming in contact with more people during this time.
 
 During the surge, the biggest dip in daily cases was on December 25th, 2020. We conclude that people did not check, themselves in  because of Christmas. This leads to the highest number of cases recorded the following day on December 26th, 2020. The day after Christmas day recorded 64,986 new covid cases.
-![Holiday Daily Cases](./images/holiday_daily_cases.png)
+![Holiday Daily Cases](./Images/holiday_daily_cases.png)
 
 The growth of Covid cases and low vaccine distributions results to an increase in deaths in the early months of 2021. The spike in deaths reaching 1,084 deaths on February 24th, 2022.
 
-![Califonia Covid Deaths](./images/california_covid_deaths.png)
+![Califonia Covid Deaths](./Images/california_covid_deaths.png)
 
 In early 2021 vaccines become more available and accoring to CBS news 20 million Californians are partially or fully vaccinated as of May 28th 2021. With more people getting vaccinated the timeline of Covid Cases shows cumilitive cases flattening in between February and March. 
 
-![California Covid Cases](./images/california_covid_cases.png)
+![California Covid Cases](./Images/california_covid_cases.png)
 
 ## Weekly COVID cases and death analysis
 Our data set began on July 1 2020 of note on June 15, 2020 51/58 counties in California had reopened with optional face coverings. 
@@ -104,8 +104,8 @@ In November we begin to see a sharp increase in number of new cases and deaths w
 
 On December 23 there Los Angeles county is at 0% capacity for ICU beds and there is a shortage of PPE, by December 26 the ICU bed shortage is statewide. This shortage paired with an O2 shortage negatively impacts survivability for those patients requiring ICU level care. 
 
-![New Weekly Cases](./images/NewCasesperWeek.png)
-![New Weekly Deaths](./images/NewDeathsperWeek.png)
+![New Weekly Cases](./Images/NewCasesperWeek.png)
+![New Weekly Deaths](./Images/NewDeathsperWeek.png)
 
 ## Weekly Analysis
 During the July 2020 to September 2020 quarter there is a steady increase in average cases and average deaths.
